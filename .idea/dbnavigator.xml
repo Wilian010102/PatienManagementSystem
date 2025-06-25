@@ -36,7 +36,7 @@
     <open-files />
   </component>
   <component name="DBNavigator.Project.DatasetFilterManager">
-    <filter-actions connection-id="f2ffd56c-195a-47b8-b0ee-29a3c2ec74ee" dataset="public.patient" active-filter-id="3cc2af91-09d9-48b1-8102-c055a9c41c1b">
+    <filter-actions connection-id="f2ffd56c-195a-47b8-b0ee-29a3c2ec74ee" dataset="public.patient" active-filter-id="EMPTY_FILTER">
       <filter id="3cc2af91-09d9-48b1-8102-c055a9c41c1b" name="Filter" temporary="false" custom-name="false" type="basic" join-type="AND">
         <condition column="id" operator="=" value="" active="true" />
       </filter>
